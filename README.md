@@ -12,7 +12,7 @@ The algorithm was extracted from Vivo's router firmware, in which it is blocked 
 <h3 align="center">With python installed</h3>
 <ul align="center">
     <li>1 - Have python installed on your computer, please use version 3.</li>
-    <li>2 - Modifique onde possui um comentário dizendo "YOUR IMEI GO HERE"</li>
+    <li>2 - Modifique onde possui um comentário dizendo "YOUR IMEI GOES HERE"</li>
     <li>3 - To get your IMEI you can look under your router, or if it is a cell phone you can enter the following code on your phone:<strong>*#06#</strong> this is a universal standard used by developers or police to obtain the IMEI unique identification number of your Smartphone / Router.</li>
     <li>4 - After just run normally with (python main.py) and obtain the two keys, the first one from UNLOCK and the second one from Flash.</li>
 </ul>
